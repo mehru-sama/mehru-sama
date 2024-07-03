@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehru-sama
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on simple project
 - 📫 How to reach me meherunnesaoishi514@gmail.com
 
